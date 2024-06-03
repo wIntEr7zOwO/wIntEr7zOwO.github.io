@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>建站记录 / 参考教程 / 遇到的一些问题</title>
+      <link href="/2024/06/04/logs/"/>
+      <url>/2024/06/04/logs/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h2><hr><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">2024-06-03 | 站点建立！发表了第一篇文章 《Hello World!》 (hhhh)</span><br><span class="line">2024-06-04 | 更新了butterfly主题，调整了一些偏好设置</span><br></pre></td></tr></table></figure><h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><hr><ul><li><p>如何使用 Github 搭建网站 (with Hexo): <a href="https://blog.fiveth.cc/p/bb32/">文字版</a> | <a href="https://www.bilibili.com/video/BV1Ju4m1c7WR">视频版</a></p></li><li><p>如何安装 butterfly 主题 &amp; 自定义网站: <a href="https://www.fomal.cc/posts/e593433d.html">文字版</a> | <a href="https://www.bilibili.com/video/BV1G84y1B7NH">视频版</a></p></li><li><p>butterfly の 官方网站，有非常详细的参考文档: <a href="https://butterfly.js.org/">Click me!</a></p></li></ul><h2 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h2><hr><p>（我自己遇到的一些问题，但是教程里没提及的）</p><ol><li><p><code>hexo init</code> 时，如果报错显示 <code>EPERM: operation not permitted, mkdir &#39;……&#39;</code> 的话，需要把梯子 &#x2F; 加速器关了</p></li><li><p>_config.yml 的 <code>timezone: &quot;&quot;</code> 不能填Asia，会报错</p><p>(我也不知道填啥……如果之后我会了，我再回来编辑一下，加上答案)</p></li><li><p>没了。遇到了再补充</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Default </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Default </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/06/03/hello-world/"/>
       <url>/2024/06/03/hello-world/</url>
