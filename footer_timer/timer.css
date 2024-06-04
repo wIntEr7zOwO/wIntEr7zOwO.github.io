@@ -1,0 +1,14 @@
+/*电子钟字体*/
+@font-face {
+    font-family: 'Microsoft YaHei';
+    src: "";
+    font-display: swap;
+}
+
+div#runtime {
+    margin: auto;
+    color: #fff;
+    padding-inline: 5px;
+    border-radius: 10px;
+    font-family: 'UnidreamLED';
+}
