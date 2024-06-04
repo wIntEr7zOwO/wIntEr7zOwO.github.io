@@ -4,16 +4,66 @@
   
     
     <entry>
-      <title>建站记录 / 参考教程 / 遇到的一些问题</title>
-      <link href="/2024/06/04/logs/"/>
-      <url>/2024/06/04/logs/</url>
+      <title>之前的一些建站经历</title>
+      <link href="/2024/06/05/aboutwebsite/"/>
+      <url>/2024/06/05/aboutwebsite/</url>
       
-        <content type="html"><![CDATA[<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><hr><ul><li><p>如何使用 Github 搭建网站 (with Hexo): <a href="https://blog.fiveth.cc/p/bb32/">文字版</a> | <a href="https://www.bilibili.com/video/BV1Ju4m1c7WR">视频版</a></p></li><li><p>如何安装 butterfly 主题 &amp; 自定义网站: <a href="https://www.fomal.cc/posts/e593433d.html">文字版</a> | <a href="https://www.bilibili.com/video/BV1G84y1B7NH">视频版</a></p></li><li><p>butterfly の 官方网站，有非常详细的参考文档: <a href="https://butterfly.js.org/">Click me!</a></p></li></ul><h2 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h2><hr><p>（我自己遇到的一些问题，但是教程里没提及的）</p><ol><li><p><code>hexo init</code> 时，如果报错显示 <code>EPERM: operation not permitted, mkdir &#39;……&#39;</code> 的话，需要把梯子 &#x2F; 加速器关了</p></li><li><p>_config.yml 的 <code>timezone: &quot;&quot;</code> 不能填Asia，会报错</p><p>(我也不知道填啥……如果之后我会了，我再回来编辑一下，加上答案)</p></li><li><p>不知道为啥会出现<code>TypeError: require(...) is not a function</code>的报错</p><p>但是似乎没有影响，先这样吧</p><p>(查了下似乎是版本冲突，但是回退或者更新都好麻烦)</p></li></ol><h2 id="Changelog"><a href="#Changelog" class="headerlink" title="Changelog"></a>Changelog</h2><hr><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">2024-06-03 | 站点建立！发表了第一篇文章 《Hello World!》 (hhhh)</span><br><span class="line">2024-06-04 | 更新了butterfly主题，调整了一些偏好设置</span><br><span class="line">           | 更新了一些偏好，修改了顶栏页脚，加了个可爱的live2d</span><br><span class="line">2024-06-05 |</span><br></pre></td></tr></table></figure><h2 id="Todo"><a href="#Todo" class="headerlink" title="Todo"></a>Todo</h2><hr><ul><li>改字体</li><li>网站的icon &#x2F; 图片等，icon我准备自己画一个</li><li>还想搞个自己画的live2d，这个可能是个长期计划</li><li>整点小工具，等我研究下怎么加，现在暂时只有博客功能</li><li>所以右下角那个阅读进度究竟怎么搞！！</li><li>emm 暂时没有了？</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>TBA</p>]]></content>
       
       
       <categories>
           
-          <category> Default </category>
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Default </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小窝的翻新记录 (Changelog)</title>
+      <link href="/2024/06/05/logs/"/>
+      <url>/2024/06/05/logs/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">2024-06-03 | 站点建立！发表了第一篇文章 《Hello World!》 (hhhh)</span><br><span class="line">2024-06-04 | 更新了butterfly主题，调整了一些偏好设置</span><br><span class="line">           | 更新了一些偏好，修改了顶栏页脚，加了个可爱的live2d</span><br><span class="line">2024-06-05 | 增加了分类，调整了一些细节，修复了一点问题</span><br></pre></td></tr></table></figure><p>Todo:</p><ul><li>改字体</li><li>网站的icon &#x2F; 图片等，icon我准备自己画一个</li><li>还想搞个自己画的live2d，这个可能是个长期计划</li><li>整点小工具，等我研究下怎么加，现在暂时只有博客功能</li><li>所以右下角那个阅读进度究竟怎么搞！！</li><li>emm 暂时没有了？</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Default </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>建站记录 / 参考教程 / 遇到的一些问题</title>
+      <link href="/2024/06/04/ref/"/>
+      <url>/2024/06/04/ref/</url>
+      
+        <content type="html"><![CDATA[<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><hr><ul><li><p>如何使用 Github 搭建网站 (with Hexo): <a href="https://blog.fiveth.cc/p/bb32/">文字版</a> | <a href="https://www.bilibili.com/video/BV1Ju4m1c7WR">视频版</a></p></li><li><p>如何安装 butterfly 主题 &amp; 自定义网站: <a href="https://www.fomal.cc/posts/e593433d.html">文字版</a> | <a href="https://www.bilibili.com/video/BV1G84y1B7NH">视频版</a></p></li><li><p>butterfly の 官方网站，有非常详细的参考文档: <a href="https://butterfly.js.org/">Click me!</a></p></li></ul><h2 id="Tips"><a href="#Tips" class="headerlink" title="Tips"></a>Tips</h2><hr><p>（我自己遇到的一些问题，但是教程里没提及的）</p><ol><li><p><code>hexo init</code> 时，如果报错显示 <code>EPERM: operation not permitted, mkdir &#39;……&#39;</code> 的话，需要把梯子 &#x2F; 加速器关了</p></li><li><p>_config.yml 的 <code>timezone: &quot;&quot;</code> 不能填Asia，会报错</p><p>(我也不知道填啥……如果之后我会了，我再回来编辑一下，加上答案)</p></li><li><p>不知道为啥会出现<code>TypeError: require(...) is not a function</code>的报错</p><p>但是似乎没有影响，先这样吧</p><p>(查了下似乎是版本冲突，但是回退或者更新都好麻烦)</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日志 </category>
           
       </categories>
       
@@ -33,12 +83,12 @@
       <link href="/2024/06/03/hello-world/"/>
       <url>/2024/06/03/hello-world/</url>
       
-        <content type="html"><![CDATA[<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h2><hr><p>Hello World!</p><h2 id="Markdown-Test"><a href="#Markdown-Test" class="headerlink" title="Markdown Test"></a>Markdown Test</h2><hr><h1 id="Heading-level-1"><a href="#Heading-level-1" class="headerlink" title="Heading level 1"></a>Heading level 1</h1><h2 id="Heading-level-2"><a href="#Heading-level-2" class="headerlink" title="Heading level 2"></a>Heading level 2</h2><h3 id="Heading-level-3"><a href="#Heading-level-3" class="headerlink" title="Heading level 3"></a>Heading level 3</h3><h4 id="Heading-level-4"><a href="#Heading-level-4" class="headerlink" title="Heading level 4"></a>Heading level 4</h4><h5 id="Heading-level-5"><a href="#Heading-level-5" class="headerlink" title="Heading level 5"></a>Heading level 5</h5><h6 id="Heading-level-6"><a href="#Heading-level-6" class="headerlink" title="Heading level 6"></a>Heading level 6</h6><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="section"># Heading level 1</span></span><br><span class="line"><span class="section">## Heading level 2</span></span><br><span class="line"><span class="section">### Heading level 3</span></span><br><span class="line"><span class="section">#### Heading level 4</span></span><br><span class="line"><span class="section">##### Heading level 5</span></span><br><span class="line"><span class="section">###### Heading level 6</span></span><br></pre></td></tr></table></figure><hr><blockquote><p>Highlight Text</p></blockquote><p><a href="https://meoww.top/">Link</a></p><p><img src="https://s2.loli.net/2024/05/17/wlxOYCI8zork6By.gif" alt="img"></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="quote">&gt; Highlight Text</span></span><br><span class="line"></span><br><span class="line">[<span class="string">Link</span>](<span class="link">https://meoww.top</span>)</span><br><span class="line"></span><br><span class="line">![<span class="string">img</span>](<span class="link">https://s2.loli.net/2024/05/17/wlxOYCI8zork6By.gif</span>)</span><br></pre></td></tr></table></figure><hr><ul><li>List</li><li>List</li><li>List</li></ul><ol><li>List</li><li>List</li><li>List</li></ol><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">-</span> List</span><br><span class="line"><span class="bullet">-</span> List</span><br><span class="line"><span class="bullet">-</span> List</span><br><span class="line"></span><br><span class="line"><span class="bullet">1.</span> List</span><br><span class="line"><span class="bullet">2.</span> List</span><br><span class="line"><span class="bullet">3.</span> List</span><br></pre></td></tr></table></figure><hr><p><em>Hello World!</em></p><p><strong>Hello World!</strong></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(yay)</span><br></pre></td></tr></table></figure><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="emphasis">*Hello World!*</span></span><br><span class="line"></span><br><span class="line"><span class="strong">__Hello World!__</span></span><br><span class="line"></span><br><span class="line"><span class="code">```python</span></span><br><span class="line"><span class="code">print(yay)</span></span><br><span class="line"><span class="code">```</span></span><br></pre></td></tr></table></figure><hr><table><thead><tr><th align="center">Form Test</th><th align="right">1</th><th align="left">1</th></tr></thead><tbody><tr><td align="center">2</td><td align="right">2</td><td align="left">2</td></tr></tbody></table><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Form Test|1|1</span><br><span class="line">:---:|---:|:---</span><br><span class="line">2|2|2</span><br></pre></td></tr></table></figure><hr><p><font color='#00ff00'>Hello</font></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">font</span> <span class="attr">color</span>=<span class="string">&#x27;#00ff00&#x27;</span>&gt;</span></span>Hello<span class="language-xml"><span class="tag">&lt;/<span class="name">font</span>&gt;</span></span></span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
           
-          <category> Default </category>
+          <category> 无分类 </category>
           
       </categories>
       
